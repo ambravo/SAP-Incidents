@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:ExampleXSD_Embedded xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning"
+ xmlns:xs="urn:uk.ac.open/xsd.example">
+    <Integers>
+        <Digits>-680</Digits>
+        <Range>7</Range>
+    </Integers>
+    <Boolean>1</Boolean>
+    <Occurrences OptionalParameter="0" RequiredParameter="120349309">
+        <Unbounded>848911712</Unbounded>
+        <Unbounded>-1310705358</Unbounded>
+        <Unbounded>1391602066</Unbounded>
+        <Unbounded>-2068326142</Unbounded>
+        <Mandatory>qLVJ1VmlCDfhXck_bD3n9ou0Lp_KE</Mandatory>
+    </Occurrences>
+    <Embedded>
+        <Field>D5UpCXy.</Field>
+    </Embedded>
+    <Documentation>Kedp</Documentation>
+    <Strings>
+        <Regex>e@x.utb</Regex>
+        <LengthLimited>KIvQyD9yqamQfBlgACkXt</LengthLimited>
+        <Ennumerations>d</Ennumerations>
+        <CollapseWitheSpaces>qsgj_a57aoXE</CollapseWitheSpaces>
+    </Strings>
+    <Dates>
+        <DateTime>2022-09-01T12:55:05Z</DateTime>
+        <DateTime>2022-09-27T12:55:05</DateTime>
+        <DateTime>2022-03-01T12:55:05Z</DateTime>
+        <DateTime>2021-12-25T12:55:05</DateTime>
+        <Date>2020-12-10</Date>
+        <Date>2022-09-16</Date>
+        <Date>2021-10-12</Date>
+        <Date>2022-10-27</Date>
+        <Time>12:55:05.962</Time>
+        <Time>12:55:05.962Z</Time>
+        <Time>12:55:05.962Z</Time>
+        <Time>12:55:05.962</Time>
+    </Dates>
+</xs:ExampleXSD_Embedded>
